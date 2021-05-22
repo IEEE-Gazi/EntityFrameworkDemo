@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{0CA462F0-29D7-43D3-951E-DCC19CD4D04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{DF2436F6-E501-46E9-B08C-17C490FE330D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D54BC06C-3BA6-47DB-8C44-73E2B1F5C9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{DEECB309-EE0F-460F-9D10-B52EDF99F524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA462F0-29D7-43D3-951E-DCC19CD4D04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA462F0-29D7-43D3-951E-DCC19CD4D04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA462F0-29D7-43D3-951E-DCC19CD4D04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA462F0-29D7-43D3-951E-DCC19CD4D04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2436F6-E501-46E9-B08C-17C490FE330D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2436F6-E501-46E9-B08C-17C490FE330D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2436F6-E501-46E9-B08C-17C490FE330D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2436F6-E501-46E9-B08C-17C490FE330D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54BC06C-3BA6-47DB-8C44-73E2B1F5C9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54BC06C-3BA6-47DB-8C44-73E2B1F5C9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54BC06C-3BA6-47DB-8C44-73E2B1F5C9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54BC06C-3BA6-47DB-8C44-73E2B1F5C9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEECB309-EE0F-460F-9D10-B52EDF99F524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEECB309-EE0F-460F-9D10-B52EDF99F524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEECB309-EE0F-460F-9D10-B52EDF99F524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEECB309-EE0F-460F-9D10-B52EDF99F524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
